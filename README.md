@@ -8,4 +8,4 @@ This link contains the code for a unsupervised classification by using Sentinel-
 
 This link contains the code  for a supervised classification by using Sentinel-2 for Lama, the classified image, and a fine tuned map.
 [code link](https://code.earthengine.google.com/325eb6fbae537422af5be8e9d06f78b4)
-[image link](https://github.com/HR-134/GEE_Practice/blob/main/Untitled2.jpg)
+[image link](https://github.com/HR-134/GEE_Cohort2/blob/main/supervised.png)
