@@ -8,4 +8,4 @@ This link contains the code for a unsupervised classification by using Sentinel-
 
 This link contains the code  for a supervised classification by using Sentinel-2 for Boalkhali, the classified image, and a fine tuned map.
 [code link](https://code.earthengine.google.com/d962f4f83d3500f51a60bd1a2c27b55d)
-[image link](https://github.com/HR-134/GEE_Cohort2/blob/main/supervised.png)
+[image link](Supervised_Lulc_B.jpg)
